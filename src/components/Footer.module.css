@@ -1,0 +1,22 @@
+.footer {
+  margin:0 auto;
+}
+
+.socialIcons ul {
+  display: flex;
+  align-items: center;
+}
+.socialIcons ul li {
+  list-style: none;
+  margin: 0 10px;
+
+}
+.socialIcons ul li img{
+  max-width:50px;
+  max-height:50px;
+}
+
+.footerText {
+  color:#FFF;
+  text-align: center;
+}

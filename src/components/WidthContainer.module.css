@@ -1,0 +1,8 @@
+.widthContainer {
+    display:flex;
+    position: relative;
+    z-index: 1;
+    width: calc(min(100%, 169vh));
+    margin: 0 auto;
+    padding: 0 30px;
+}
