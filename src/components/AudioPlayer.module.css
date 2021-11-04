@@ -1,0 +1,12 @@
+
+.hidden {
+
+}
+.playerIcon {
+    position: relative;
+    z-index: 1;
+    margin-left: auto;    
+}
+.playerIcon img {
+    width:80px;
+}
