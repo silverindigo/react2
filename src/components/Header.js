@@ -4,15 +4,15 @@ import styles from './Header.module.css'
 
 const menus =[
   {
-    url: '#',
+    url: 'https://pluniverse.io/plv',
     title: '$PLV'
   },
   {
-    url: '#',
+    url: 'https://pluniverse.io/marketplace',
     title: 'Marketplace'
   },
   {
-    url: '#',
+    url: 'https://whitepaper.pluniverse.io',
     title: 'Whitepaper'
   }
 ]
