@@ -52,7 +52,7 @@ function Header() {
     <ul className="Navigation-list">
       
     {menus.map(menu => (
-              <li key={menu.url}><a href="#">{menu.title}</a></li>
+              <li key={menu.url}><a href={menu.url}>{menu.title}</a></li>
             ))}
     </ul>
   </div>

@@ -121,8 +121,7 @@ width: auto;
 }
 .Navigation li {
   display: inline;
-  font-size: 32px;
-  font-size: 22px;
+  font-size: 16px;
 }
 .Navigation--collapsed {
   display: none;
@@ -184,7 +183,7 @@ width: auto;
     display: block;
     position: relative;
     height: 25%;
-    height: calc(100% / 3);
+    height: calc(100% / 6);
     min-height: 4em;
   }
 
